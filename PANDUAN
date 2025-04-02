@@ -1,0 +1,13 @@
+Kelompok E-SIAR
+
+Panduan Install database Mysql
+
+1. Ekstrak File, masukan ke xampp, taruh di dalam folder htdocs
+2. Masuk ke file database
+3. Buka xampp kalian
+4. Kemudian Buka Browser kalian dan ketik di pencarian localhost/phpmyadmin/
+5. Setelah itu, buat database dengan nama db_desa
+6. Kemudian pilih import, pilih choose file, pilih file database desa yg ada di folder database sebelumnya.
+7. Pilih kirim / go
+8. cara cek nya yaitu, ketik di pencarian localhost/desa
+9. untuk login ADMIN email = admin@gmail.com, pass = admin  
